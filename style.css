@@ -1,0 +1,16 @@
+header {
+    height: 400px;
+    background-image: url('assets/Hero-bg.png');
+    background-size:contain;
+    margin-top:50px ;
+
+}
+.first {margin-left: 520px;
+margin-right: 200px;}
+a {margin-left: 50px;}
+a button {
+    background-color: black;
+    color: aliceblue;
+    
+  
+}
