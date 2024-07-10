@@ -6,11 +6,72 @@ header {
 
 }
 .first {margin-left: 520px;
-margin-right: 200px;}
-a {margin-left: 50px;}
+margin-right: 530px;
+text-align: center;}
+a {margin-left: 50px;
+margin-right: 50px;
+}
 a button {
     background-color: black;
     color: aliceblue;
     
   
 }
+p {font-size: smaller;}
+
+
+/* main */
+
+
+
+
+.development {background-color: rgb(209, 220, 240);margin: 8%;}
+.m-one {text-align: center;
+padding-top: 15px;}
+
+
+.m-two {display: flex;
+padding: 60px;
+background-color: azure;
+padding-left: 30px;padding-right: 30px;
+margin-left: 100px;
+margin-right: 100px;}
+.m-two ul {list-style: none;}
+
+
+.m-two img {margin-left: 300px;}
+
+
+.m-three {display: flex;
+    padding: 60px;
+    background-color: azure;
+    padding-left: 30px;padding-right: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+margin-top: 10px;}
+    .m-three ul {list-style: none;
+    margin-left: 250px;}
+    
+    .m-three img {margin-left: 45px;}
+
+
+    .m-four {display: flex;
+        padding: 60px;
+        background-color: azure;
+        padding-left: 30px;padding-right: 30px;
+        margin-left: 100px;
+        margin-right: 100px;
+    margin-top: 10px;}
+        .m-four ul {list-style: none;}
+        
+        .m-four img {margin-left: 300px;}
+        
+        .btnt {background-color: aliceblue;color: black;}
+
+        .btnf {background-color: aliceblue;color: black;
+       }
+
+       .inspiration {
+        text-align: center; list-style: none;
+       }
+
