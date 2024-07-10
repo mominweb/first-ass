@@ -73,5 +73,46 @@ margin-top: 10px;}
 
        .inspiration {
         text-align: center; list-style: none;
-       }
+      margin-bottom: 7%; }
+.inspiration ul {list-style: none;}
 
+
+       /* current */
+
+.current { text-align: center; ;}
+.current ul {list-style: none;}
+
+.flex {display: flex;
+margin-left: 5%;
+padding: 5%;justify-content:space-evenly;
+}
+
+.html {background-color: bisque;margin-left: 2%;padding-right: 3%;}
+.css {background-color: azure;padding-right: 3%}
+.js {background-color: antiquewhite;padding-right: 3%}
+
+
+/* support */
+ .support {text-align: center; color: aliceblue;}
+ .support ul {list-style: none; }
+ .support ul li input {padding: 10px; margin-left: 40px;padding-right: 50px;
+margin-bottom: 15px;}
+ .para { padding-bottom: 30px;}
+ .support {background-image: url('assets/handshake.jpg');
+    background-repeat: no-repeat; background-size: contain;
+    background-position: center; background-size: 700px;
+
+}
+footer {padding-top: 5px;display: flex; background-color: rgb(247, 242, 242);height: 100px;margin-top: 30px;}
+
+.footerlist ul { list-style: none; display: flex; 
+text-align: center; padding-bottom: 20px;
+}
+
+.footerlist ul li img {margin-left: 200px;padding-bottom: ; }
+.footerlist ul li img {display: table-column;}
+
+/* .fb img {margin-left: 500px;}
+.git img {margin-left: 500px;}
+.in img {margin-left: 500px;}
+section {vertical-align: middle;} */
